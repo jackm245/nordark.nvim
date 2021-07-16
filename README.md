@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/jackm245/nordark.nvim/"><img src="https://img.shields.io/badge/build-passing-lightblue"/></a> 
   <a href="https://github.com/jackm245/nordark.nvim/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightblue"/></a> 
-  <a href="https://github.com/jackm245/nordark.nvim/"><img src="https://img.shields.io/badge/version-v1.0-lightblue"/><\a>
+  <a href="https://github.com/jackm245/nordark.nvim/"><img src="https://img.shields.io/badge/version-v1.0-lightblue"/>
 </p>
   
 # Nordark.nvim
