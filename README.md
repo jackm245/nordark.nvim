@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.nordtheme.com" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-hero.svg?sanitize=true"/></a></p>
 
-[![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/jackm245/nordark.nvim/)
-[![license](https://img.shields.io/badge/license-MIT-green)]()
+<p align="center">[![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/jackm245/nordark.nvim/)<\p>
+[![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/jackm245/nordark.nvim/blob/main/LICENSE)
 
 # Nordark.nvim
 A Dark Theme for neovim >= 0.5 based on [Atom One Dark Theme](https://github.com/atom/atom/tree/master/packages/one-dark-ui) and [Nord Colorscheme](https://www.nordtheme.com/docs/colors-and-palettes)
