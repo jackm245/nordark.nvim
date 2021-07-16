@@ -12,6 +12,14 @@ This colorscheme is in VERY early development, but I am working on it and feedba
 ### vim-plug
 `Plug 'jackm245/nordark.nvim'`
 
+### Manual
+
+1. Use this script but replace `<user>` with the desired user
+`cd /home/<user>/.config/nvim && git clone https://github.com/jackm245/nordark.nvim.git`
+2. Add 
+`colorscheme nordark`
+to your init.vim file
+
 ## Toggle style 
 
 By pressing `<leader>cs`, we can switch the style without exiting neovim
