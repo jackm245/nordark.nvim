@@ -9,6 +9,8 @@ This colorscheme is in VERY early development, but I am working on it and feedba
 
 ## Installation
 
+### vim-plug
+`Plug 'jackm245/nordark.nvim'`
 
 ## Toggle style 
 
