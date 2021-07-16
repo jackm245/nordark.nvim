@@ -1,10 +1,7 @@
 <p align="center"><a href="https://www.nordtheme.com" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-hero.svg?sanitize=true"/></a></p>
 
-[![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/jackm245/nordark.nvim/)
-[![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/jackm245/nordark.nvim/blob/main/LICENSE)
-
 <p align="center">
-  <a href="https://github.com/jackm245/nordark.nvim/"><img src="https://img.shields.io/badge/build-passing-brightgreen"/></a> 
+  <a href="https://github.com/jackm245/nordark.nvim/"><img src="https://img.shields.io/badge/build-passing-brightblue"/></a> 
   <a href="https://github.com/jackm245/nordark.nvim/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue"/></a> 
 </p>
   
