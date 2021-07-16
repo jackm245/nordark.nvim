@@ -14,7 +14,7 @@ This colorscheme is in VERY early development, but I am working on it and feedba
 
 ### Manual
 
-1. Use this script but replace `<user>` with the desired user
+1. Use this script but replace `<user>` with the desired user <br>
 `cd /home/<user>/.config/nvim && git clone https://github.com/jackm245/nordark.nvim.git`
 2. Add 
 `colorscheme nordark`
